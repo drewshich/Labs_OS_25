@@ -20,6 +20,6 @@
 <img width="862" height="586" alt="8" src="https://github.com/user-attachments/assets/a516f501-30da-4d12-9570-4fc589329799" />
 <img width="1343" height="930" alt="9" src="https://github.com/user-attachments/assets/4112be33-d78d-4d1d-bbbe-fd02e10ca0b3" />
 
-### Исправления лабораторная работа 2
+### Исправления лабораторной работы 2
 <img width="735" height="367" alt="10" src="https://github.com/user-attachments/assets/f63cb34a-ed23-42f0-84bb-8c03e777e36e" />
 <img width="1012" height="476" alt="11" src="https://github.com/user-attachments/assets/6f0a5e24-a651-4895-9075-4ed54515afc1" />
