@@ -23,3 +23,13 @@
 ### Исправления лабораторной работы 2
 <img width="735" height="367" alt="10" src="https://github.com/user-attachments/assets/f63cb34a-ed23-42f0-84bb-8c03e777e36e" />
 <img width="1012" height="476" alt="11" src="https://github.com/user-attachments/assets/6f0a5e24-a651-4895-9075-4ed54515afc1" />
+
+
+
+## Лабораторная работа 3
+<img width="1532" height="664" alt="1" src="https://github.com/user-attachments/assets/9416f0f7-af2a-403b-b864-49b455ed45ef" />
+<img width="673" height="764" alt="2" src="https://github.com/user-attachments/assets/1ccd8de4-f283-4e8c-8590-49173ec549db" />
+<img width="993" height="441" alt="3" src="https://github.com/user-attachments/assets/21c6d724-30ae-4b7b-932d-a7b0efaf0a12" />
+<img width="1173" height="355" alt="4" src="https://github.com/user-attachments/assets/572d9c72-da22-40fb-a3f4-cb9ed0162493" />
+<img width="1382" height="269" alt="5" src="https://github.com/user-attachments/assets/02d1a3e2-f34d-4fd6-b454-efb872943739" />
+<img width="1781" height="237" alt="6" src="https://github.com/user-attachments/assets/b24bd3d5-ba4d-4952-bcbd-33b4f79dbe7e" />
